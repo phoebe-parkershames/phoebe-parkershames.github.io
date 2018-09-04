@@ -1,4 +1,8 @@
 ---
 title: "CV"
 ---
+
+```{r, echo=FALSE}
 knitr::include_graphics("images/PhoebeParkerShamesCV.pdf")
+```
+
