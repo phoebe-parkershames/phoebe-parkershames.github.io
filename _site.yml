@@ -8,13 +8,20 @@ navbar:
       href: index.html
     - text: "Research"
       icon: fa-area-chart
-      href: research.html
+      menu:
+        - text: "Cannabis land use change"
+          href: cannabis.html
+        - text: "Previous research"
+          href: previous_research.html
     - text: "CV"
       icon: fa-file
       href: cv.html
     - text: "Contact"
       icon: fa-envelope
       href: contact.html
+    - text: "Personal Blog"
+      icon: fa-pen
+      href: blog.html
 output:
   html_document:
     theme: flatly

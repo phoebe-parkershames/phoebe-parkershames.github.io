@@ -1,0 +1,4 @@
+---
+title: "Personal Blog"
+---
+You can check out my personal blog [here](https://woahsimba.wordpress.com/)

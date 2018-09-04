@@ -1,3 +1,4 @@
 ---
-title: "Curriculum Vitae"
+title: "CV"
 ---
+knitr::include_graphics("images/PhoebeParkerShamesCV.pdf")
