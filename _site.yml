@@ -20,7 +20,7 @@ navbar:
       icon: fa-envelope
       href: contact.html
     - text: "Personal Blog"
-      icon: fa-pen
+      icon: fa-pencil-alt
       href: blog.html
 output:
   html_document:

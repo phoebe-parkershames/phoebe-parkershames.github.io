@@ -2,6 +2,8 @@
 title: "CV"
 ---
 
+Download [here](images/PhoebeParkerShamesCV.pdf)
+
 ```{r, echo=FALSE}
 knitr::include_graphics("images/PhoebeParkerShamesCV.pdf")
 ```
