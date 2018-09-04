@@ -1,0 +1,21 @@
+name: phoebe-parkershames
+output_dir: "."
+navbar:
+  title: "Phoebe Parker-Shames"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "Research"
+      icon: fa-area-chart
+      href: research.html
+    - text: "CV"
+      icon: fa-file
+      href: cv.html
+    - text: "Contact"
+      icon: fa-envelope
+      href: contact.html
+output:
+  html_document:
+    theme: flatly
+    css: 'style.css'
