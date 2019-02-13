@@ -4,4 +4,4 @@
 
 <img src="images/Phoebe.jpg" style="width:380px; margin-right: 20px;" align="left">
 
-My name is Phoebe Parker-Shames and I am a graduate student in the [Brashares Lab](https://nature.berkeley.edu/BrasharesGroup/) at UC Berkeley’s [Environmental Science, Policy, & Management Department](https://ourenvironment.berkeley.edu/). My research examines the role of humans within ecological systems, focusing on how land use change influences wildlife communities. Please use the tabs above to find out more about my research.
+My name is Phoebe Parker-Shames and I am a graduate student in the [Brashares Lab](https://nature.berkeley.edu/BrasharesGroup/) at UC Berkeley’s [Environmental Science, Policy, & Management Department](https://ourenvironment.berkeley.edu/). My work examines the role of humans within ecological systems, focusing on how land use change influences wildlife communities. My dissertation research is on the ecological outcomes of cannabis legalization. Please use the tabs above to find out more about my research.
