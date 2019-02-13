@@ -2,4 +2,4 @@
 title: "Contact"
 ---
 
-Contact me at 
+Contact me at <phoebe_parkershames@berkeley.edu>
