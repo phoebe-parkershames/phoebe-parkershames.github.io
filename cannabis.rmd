@@ -7,7 +7,7 @@ title: "Cannabis land use change and wildlife"
 ###*My dissertation research is conducted in partnership with the Berkeley Cannabis Research Center. You can find out more about the center [here](http://crc.berkeley.edu/).*
 
 ![](images/cannabis1.jpg)  
-
+  
 ###Why study cannabis? 
 
 Studying cannabis is important if we want policies, regulations, and land use decisions that are informed by science and responsive to stakeholders. At this key moment of an emerging industry, research provides an opportunity to shape its future trajectory.
@@ -28,7 +28,7 @@ My dissertation focuses on understanding the ecological consequences of cannabis
 **First,** I am working to understand cannabis land use change by mapping out outdoor cultivation from publicly available Google Earth images. I will use this to look at the spatial configuration and location of the industry over time. This will produce a greater understanding of “Cannabis Landscapes.”
 
 ![](images/IVChangeArea.jpg)
-######Preliminary results from Google Earth mapping effort. Change in outdoor cultivation area from 2013 to 2016 in the Illinois Valley, Oregon, summarized in 5x5km grid cells.  
+*Preliminary results from Google Earth mapping effort. Change in outdoor cultivation area from 2013 to 2016 in the Illinois Valley, Oregon, summarized in 5x5km grid cells.*  
 
 
 **Second,** I will work to interpret these land use changes and contextualize their drivers using interviews with cannabis farmers and cannabis policymakers.  
@@ -36,10 +36,10 @@ My dissertation focuses on understanding the ecological consequences of cannabis
 **Third,** I am examining the distribution and interaction of wildlife across these cannabis landscapes. Working in partnership with local cannabis farmers and other land owners, I am using wildlife monitoring techniques to collect information on animals on farms and in surrounding areas. I will focus on mammal and bird community assembly, habitat use, and activity patterns in response to the spatial configuration of cannabis farms.
 
 ![](images/FoxCannabis.JPG)
-######Photo of a grey fox taken by a camera trap on partner farm [East Fork Cultivars](http://www.eastforkcultivars.com/)
+*Photo of a grey fox taken by a camera trap on partner farm [East Fork Cultivars](http://www.eastforkcultivars.com/)*
 
-**Finally,** I will conduct experimental manipulations of cannabis land use practices to understand the mechanisms of wildlife response to cannabis production. Focusing on cultivation practices that are either increasing in use (e.g., greenhouse cultivation using artificial grow lights) or are practices that growers identify as ones they would like to be able to manipulate (e.g., fencing), I can make better predictions on the ecological consequences of specific land use decisions.
-
+**Finally,** I will conduct experimental manipulations of cannabis land use practices to understand the mechanisms of wildlife response to cannabis production. Focusing on cultivation practices that are either increasing in use (e.g., greenhouse cultivation using artificial grow lights) or are practices that growers identify as ones they would like to be able to manipulate (e.g., fencing), I can make better predictions on the ecological consequences of specific land use decisions.  
+  
 ### Interested in participating in the research process?
 
 I value stakeholder input into the work that I do and believe that research should be a two-way street. Much of my research is conducted in Josephine County, Oregon and Mendocino County, California, but I may expand my reach elsewhere. If you are interested in participating in this work or have any questions, please get in touch!
